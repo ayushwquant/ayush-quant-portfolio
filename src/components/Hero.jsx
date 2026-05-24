@@ -135,7 +135,7 @@ export default function Hero() {
             </svg>
           </button>
           <a
-            href="https://www.fiverr.com"
+            href="https://www.fiverr.com/ayush_quant"
             target="_blank"
             rel="noopener noreferrer"
             className="outline-btn flex items-center gap-2 text-base"

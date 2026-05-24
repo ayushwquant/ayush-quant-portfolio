@@ -70,7 +70,7 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="https://www.fiverr.com"
+            href="https://www.fiverr.com/ayush_quant"
             target="_blank"
             rel="noopener noreferrer"
             className="ml-4 rounded-lg bg-gradient-to-r from-cyan-400 to-emerald-400 px-5 py-2 text-sm font-semibold text-navy-900 shadow-lg shadow-cyan-400/20 transition-all duration-300 hover:shadow-cyan-400/40 hover:-translate-y-0.5"
@@ -122,7 +122,7 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="https://www.fiverr.com"
+            href="https://www.fiverr.com/ayush_quant"
             target="_blank"
             rel="noopener noreferrer"
             className="glow-btn mt-4 text-lg"

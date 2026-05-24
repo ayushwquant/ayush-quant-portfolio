@@ -50,7 +50,7 @@ export default function Footer() {
           {/* Social icons */}
           <div className="flex gap-4">
             <a
-              href="https://github.com"
+              href="https://github.com/ayushwquant"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-lg border border-gray-700/30 p-2.5 text-gray-400 transition-all duration-300 hover:border-cyan-400/30 hover:text-cyan-400"
@@ -60,7 +60,7 @@ export default function Footer() {
               </svg>
             </a>
             <a
-              href="https://www.fiverr.com"
+              href="https://www.fiverr.com/ayush_quant"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-lg border border-gray-700/30 p-2.5 text-gray-400 transition-all duration-300 hover:border-emerald-400/30 hover:text-emerald-400"
@@ -70,7 +70,7 @@ export default function Footer() {
               </svg>
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://linkedin.com/in/ayush-quant"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-lg border border-gray-700/30 p-2.5 text-gray-400 transition-all duration-300 hover:border-blue-400/30 hover:text-blue-400"
